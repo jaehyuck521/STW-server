@@ -3,7 +3,7 @@ from sqlalchemy import create_engine, text
 db={
     'user':'root',
     'password':'password',
-    'host':'stw-db.cfds7yjqxmf6.ap-northeast-2.rds.amazonaws.com',
+    'host':'stw-db2.cfds7yjqxmf6.ap-northeast-2.rds.amazonaws.com',
     'port': 3306,
     'database': 'worry'
 }
